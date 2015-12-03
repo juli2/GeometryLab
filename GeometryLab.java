@@ -83,5 +83,5 @@ public class GeometryLab {
         public double rectPrismSurfArea (int b, int h, int w) {
                 return (2 * b *h) + (2 * b * w) + (2 * h * w);
         }
-        
+
 }
